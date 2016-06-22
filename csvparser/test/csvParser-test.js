@@ -59,14 +59,14 @@ describe("csvp.Parser", function() {
         var cards = parser.createCards(arr);
         var csv = parser.createCSV(cards[18]);
         expect(csv).toEqual("Stand up to talk;1;7\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\n"); 
-    });
+        });
 
     it("is able to produce a full CSV file of cards", function() {
         var arr = parser.readTextArea(myFile);
         var cards = parser.createCards(arr);
         var all = parser.printAll(cards);
-alert(all);
-    });   
+        alert(all);
+        });   
 
 
 });
