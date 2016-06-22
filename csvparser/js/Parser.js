@@ -33,8 +33,37 @@ csvp.Card = function(arr) {
   this.text = arr[0];
   this.level = Number(arr[1]);
   this.amount = Number(arr[2]);
-  this.gm1 = Number(arr[3]) > 0;
-  this.gm2 = Number(arr[4]) > 0;
-  this.gm3 = Number(arr[5]) > 0;
+  this.gm1 = Number(arr[3]);
+  this.gm2 = Number(arr[4]);
+  this.gm3 = Number(arr[5]);
 }
 
+csvp.Parser.prototype.printAll = function(cards) {
+  var out = "";
+  while(cards.length > 0) {
+    var c = cards.pop();
+    out = out + this.createCSV(c);
+  }
+  return out;
+}
+
+csvp.Parser.prototype.createCSV = function(c) {
+    var out = "";
+    for(i=0;i<c.amount;i++) {
+      var n = this.iconPrintGuide(c, i);
+      out = out + c.text + ";" + c.level + ";" + n + "\n";
+    }
+    return out;
+}
+
+//logic stolen from chmod, gm1 = r, gm2 = w, gm3 = x
+csvp.Parser.prototype.iconPrintGuide = function(c,i) {
+  var n = 0;
+  if(c.gm1 > i)
+    n = n + 4;
+  if(c.gm2 > i)
+    n = n + 2;
+  if(c.gm3 > i)
+    n = n + 1;
+  return n;
+}

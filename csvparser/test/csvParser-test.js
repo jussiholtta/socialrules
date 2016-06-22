@@ -37,9 +37,9 @@ describe("csvp.Parser", function() {
         expect(card.text).toEqual("You can only talk if you interrupt someone");
         expect(card.level).toEqual(2);
         expect(card.amount).toEqual(2);
-        expect(card.gm1).toBe(true);
-        expect(card.gm2).toBe(true);
-        expect(card.gm3).toBe(true);
+        expect(card.gm1).toEqual(1);
+        expect(card.gm2).toEqual(1);
+        expect(card.gm3).toEqual(2);
         });
 
     it("is able to parse a whole file", function() {
@@ -52,6 +52,22 @@ describe("csvp.Parser", function() {
         expect(cards.length).toEqual(34);
         expect(cards[0]).toEqual(card);
         });
+
+
+    it("is able to create print csv-files with a card", function() {
+        var arr = parser.readTextArea(myFile);
+        var cards = parser.createCards(arr);
+        var csv = parser.createCSV(cards[18]);
+        expect(csv).toEqual("Stand up to talk;1;7\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\n"); 
+    });
+
+    it("is able to produce a full CSV file of cards", function() {
+        var arr = parser.readTextArea(myFile);
+        var cards = parser.createCards(arr);
+        var all = parser.printAll(cards);
+alert(all);
+    });   
+
 
 });
 
