@@ -1,0 +1,39 @@
+% By Jussi Hölttä
+% This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+\documentclass{article}
+
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[paperheight=59mm,paperwidth=88mm,top=2mm,bottom=2mm,right=2mm,left=2mm,heightrounded]{geometry}
+\usepackage{graphicx}
+\usepackage{tabularx}
+
+\begin{document}
+\hyphenpenalty 10000
+\exhyphenpenalty 10000
+
+\begin{figure}[b]
+\begin{center}
+\begin{minipage}[c]{60mm}
+\begin{center}
+TEMPLATEMODIFIER Lorem ipsum dolor sit amet, vix ei amet aperiri. Choro delicata efficiantur vix te, duo doming minimum fabellas cu. Per altera senserit ea, te cum tollit alterum, in eum noluisse lobortis atomorum. Mea tale cibo. TEMPLATEMODIFIER \\
+\end{center}
+\end{minipage}
+\vspace{4mm}
+\def\tabularxcolumn#1{m{#1}}
+\begin{tabularx}{80mm}{cXc}
+\raisebox{-.4\height}{\includegraphics[width=11mm]{cat}}
+&
+\centering\arraybackslash
+\textit{TEMPLATELEVEL}
+\textbf{TEMPLATEICONS}
+&
+\raisebox{-.4\height}{\reflectbox{\includegraphics[width=11mm]{cat}}}
+\end{tabularx}
+\end{center}
+\end{figure}
+
+\end{document}
