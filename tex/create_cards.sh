@@ -9,11 +9,13 @@ mkdir -p textmp
 COUNT=0
 OLDIFS=$IFS
 IFS=";"
-while read modifier level icons; do
-  FILENAME="textmp/${level}_${icons}_${COUNT}.tex"
+while read modifier level gamemode1 gamemode2 gamemode3; do
+  FILENAME="textmp/${level}_${COUNT}.tex"
   sed "s/TEMPLATEMODIFIER.*TEMPLATEMODIFIER/${modifier}/g" < back_template.tex | \
   sed "s/TEMPLATELEVEL/${level}/g" | \
-  sed "s/TEMPLATEICONS/${icons}/g" > $FILENAME
+  sed "s/TEMPLATEGAMEMODE1/${gamemode1}/g" | \
+  sed "s/TEMPLATEGAMEMODE2/${gamemode2}/g" | \
+  sed "s/TEMPLATEGAMEMODE3/${gamemode3}/g" > $FILENAME
   #|sed "s/newline/\\\\\\\\/g" > $FILENAME
   let COUNT++
 done <cards.csv
