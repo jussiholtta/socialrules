@@ -50,20 +50,24 @@ csvp.Parser.prototype.printAll = function(cards) {
 csvp.Parser.prototype.createCSV = function(c) {
     var out = "";
     for(i=0;i<c.amount;i++) {
-      var n = this.iconPrintGuide(c, i);
-      out = out + c.text + ";" + c.level + ";" + n + "\n";
+      var guide = this.iconPrintGuide(c, i);
+      out = out + c.text + ";level" + c.level + ";" + guide + "\n";
     }
     return out;
 }
 
-//logic stolen from chmod, gm1 = r, gm2 = w, gm3 = x
 csvp.Parser.prototype.iconPrintGuide = function(c,i) {
-  var n = 0;
-  if(c.gm1 > i)
-    n = n + 4;
-  if(c.gm2 > i)
-    n = n + 2;
-  if(c.gm3 > i)
-    n = n + 1;
-  return n;
+  return this.addGM(c.gm1, 1, i) + ";" + this.addGM(c.gm2, 2, i) + ";" + this.addGM(c.gm3, 3, i);
 }
+
+csvp.Parser.prototype.addGM = function(gm, n, i) { 
+  var out = "";
+  if(gm > i) {
+    out = "gamemode" + n; 
+  } else {
+    out = "transparent"
+  }
+  return out;
+}
+
+

@@ -58,9 +58,10 @@ describe("csvp.Parser", function() {
         var arr = parser.readTextArea(myFile);
         var cards = parser.createCards(arr);
         var csv = parser.createCSV(cards[18]);
-        expect(csv).toEqual("Stand up to talk;1;7\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\nStand up to talk;1;1\n"); 
+        expect(csv).toEqual("Stand up to talk;level1;gamemode1;gamemode2;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\n");
         });
 
+    //not an actual test, just to manually get the CSV out for now
     it("is able to produce a full CSV file of cards", function() {
         var arr = parser.readTextArea(myFile);
         var cards = parser.createCards(arr);
