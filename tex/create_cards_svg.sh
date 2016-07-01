@@ -13,7 +13,7 @@ OLDIFS=$IFS
 IFS=";"
 while read modifier level gamemode1 gamemode2 gamemode3; do
   FILENAME="svgtmp/${level}_${COUNT}.svg"
-  sed "s/TEMPLATEMODIFIER.*TEMPLATEMODIFIER/${modifier}/g" < front_template.svg | \
+  sed "s/TEMPLATEMODIFIER.*TEMPLATEMODIFIER/${modifier}/g" < images/front_template.svg | \
   sed "s/TEMPLATELEVEL/${level}/g" | \
   sed "s/TEMPLATEGAMEMODE1/${gamemode1}/g" | \
   sed "s/TEMPLATEGAMEMODE2/${gamemode2}/g" | \
