@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="26.701295"
-     inkscape:cx="18.065575"
-     inkscape:cy="16.995187"
+     inkscape:zoom="12.088456"
+     inkscape:cx="7.4246662"
+     inkscape:cy="10.827423"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -63,13 +63,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1016.9292)">
-    <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect11749"
-       width="7.0866141"
-       height="7.0812736"
-       x="7.0336499"
-       y="1038.1614"
-       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.880354"
+       y="1046.2327"
+       id="text9048"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="11.880354"
+         y="1046.2327"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff6600;fill-opacity:1"
+         id="tspan9052">I</tspan></text>
   </g>
 </svg>

@@ -2488,11 +2488,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9931011"
-     inkscape:cx="234.32997"
-     inkscape:cy="138.98445"
+     inkscape:zoom="1.8965469"
+     inkscape:cx="193.13996"
+     inkscape:cy="137.9299"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2521,7 +2521,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2531,8 +2531,8 @@
      id="layer1"
      transform="translate(0,-768.89783)">
     <path
-       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:1.16087806;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -20.091748,749.51174 0,322.23676 430.035978,0 0,-322.23676 -430.035978,0 z"
+       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:1.25592363;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -34.805108,723.01997 0,353.07473 459.373998,0 0,-353.07473 -459.373998,0 z"
        id="rect7984"
        inkscape:connector-curvature="0" />
     <g
@@ -4000,14 +4000,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:0px;word-spacing:0px;fill:#007600;fill-opacity:1;stroke:none"
-       x="264.82388"
-       y="1055.1819"
+       x="266.4057"
+       y="1046.2183"
        id="text6702"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6704"
-         x="264.82388"
-         y="1055.1819"
+         x="266.4057"
+         y="1046.2183"
          style="font-weight:500;font-size:18px;-inkscape-font-specification:'Futura Medium';fill:#007600;fill-opacity:1">@jussiholtta</tspan></text>
     <g
        id="g9642"

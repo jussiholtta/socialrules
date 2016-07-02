@@ -24,11 +24,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1228755"
-     inkscape:cx="97.314241"
-     inkscape:cy="98.020466"
+     inkscape:zoom="2.3600833"
+     inkscape:cx="194.88189"
+     inkscape:cy="243.42361"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,10 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -46,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,18 +59,16 @@
      id="layer1"
      transform="translate(0,-768.8976)"
      style="display:inline">
-    <image
-       y="751.18109"
-       x="-17.71653"
-       id="image10227"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbAAAAFECAYAAABGTWslAAAABHNCSVQICAgIfAhkiAAABQ9JREFU eJzt1aENAgEURMF/HIirBk0vJLRACRRDN/SDQYCgAhR5yYxZu+4tc5v3AEDI9XQ97/59AgB+sS7r zMwIGAAty3cEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAk AQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIE DIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIw AJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAA SBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMg ScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAk AQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIE DIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIw AJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAA SBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMg ScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAk AQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIE DIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIw AJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAA SBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMg ScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAk AQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIE DIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIw AJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAA SBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMg ScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAkAQMgScAASBIwAJIEDIAk AQMgScAASNrPzGyHbXZaBkDA8/WcmZn95Xi5//kLAPxkW7fHB1jgCvvW+bAHAAAAAElFTkSuQmCC  "
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="318.89764"
-       width="425.19684" />
+    <rect
+       style="opacity:1;fill:#32c800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5909"
+       width="460.62991"
+       height="354.33072"
+       x="-35.433067"
+       y="733.46454" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0a8a0a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="80.365898"
        y="1043.9958"
        id="text4136"
@@ -76,65 +77,65 @@
          id="tspan4138"
          x="80.365898"
          y="1043.9958"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#0a8a0a;fill-opacity:1;">_Rules by Jussi Hölttä</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1;">_Rules by Jussi Hölttä</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4223"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
-       transform="translate(6.7233204,792.10903)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(6.3772511,794.92255)"><flowRegion
          id="flowRegion4225"><rect
            id="rect4227"
            width="321.78217"
            height="176.77045"
            x="26.964985"
            y="31.791382"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;" /></flowRegion><flowPara
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4229"
-         style="font-size:22.5px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;">TEMPLATEMODIFIER Leave the discussion, for example go get something to drink. Come back after 1 min and ask people to repeat what you TEMPLATEMODIFIER</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">TEMPLATEMODIFIER Leave the discussion, for example go get something to drink. Come back after 1 min and ask people to repeat what you said. TEMPLATEMODIFIER</flowPara></flowRoot>    <g
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Icons"
        style="display:inline">
       <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/tex/images/TEMPLATELEVEL.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATELEVEL.png"
          xlink:href="TEMPLATELEVEL.png"
-         y="772.44092"
-         x="3.5433071"
+         width="35.433071"
+         height="35.433071"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
          id="image9992"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/tex/images/TEMPLATEGAMEMODE1.png"
-         xlink:href="TEMPLATEGAMEMODE1.png"
-         y="1013.3858"
          x="3.5433071"
+         y="772.44092" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE1.png"
+         xlink:href="TEMPLATEGAMEMODE1.png"
+         width="35.433071"
+         height="35.433071"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
          id="image10054"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
+         x="3.5433071"
+         y="1013.3858" />
       <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/tex/images/TEMPLATEGAMEMODE2.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE2.png"
          xlink:href="TEMPLATEGAMEMODE2.png"
-         y="1013.3858"
-         x="350.78741"
+         width="35.433071"
+         height="35.433071"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
          id="image10132"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/tex/images/TEMPLATEGAMEMODE3.png"
-         xlink:href="TEMPLATEGAMEMODE3.png"
-         y="772.44092"
          x="350.78741"
-         id="image10178"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
+         y="1013.3858" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE3.png"
+         xlink:href="TEMPLATEGAMEMODE3.png"
+         width="35.433071"
          height="35.433071"
-         width="35.433071" />
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image10178"
+         x="350.78741"
+         y="772.44092" />
     </g>
   </g>
 </svg>
