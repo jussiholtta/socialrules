@@ -27,7 +27,7 @@ FILES=svgtmp/*svg
 for f in $FILES
 do
   #/Applications/Inkscape.app/Contents/Resources/bin/inkscape --export-eps "$(pwd)/output.eps" -d300 "$(pwd)/front_template.svg"
-  /applications/inkscape.app/contents/resources/bin/inkscape --export-eps "$(pwd)/$f.eps" -c --export-text-to-path "$(pwd)/$f"
+  /Applications/Inkscape.app/Contents/Resources/bin/inkscape --export-eps "$(pwd)/$f.eps" --export-text-to-path "$(pwd)/$f"
 done
 mkdir -p final
 mv svgtmp/*.eps final/
