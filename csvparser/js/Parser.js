@@ -3,8 +3,12 @@ var csvp = csvp || {}
 csvp.Parser = function() {
 }
 
-csvp.Parser.prototype.readTextArea = function(s) {
-  return s.split('\n');
+csvp.Parser.prototype.fetchData = function(url) {
+  xmlhttp=new XMLHttpRequest();
+  xmlhttp.open("GET", url, false);
+  xmlhttp.send();
+  var data = xmlhttp.responseText;
+  return data.split('\n');
 }
 
 csvp.Parser.prototype.parseLine = function(arr) { 
@@ -12,7 +16,8 @@ csvp.Parser.prototype.parseLine = function(arr) {
   if(l[0] === "#") {
     return "";
   }
-  return l.split('|');
+  //https://stackoverflow.com/questions/11456850/split-a-string-by-commas-but-ignore-commas-within-double-quotes-using-javascript
+  return l.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g);
 }
 
 csvp.Parser.prototype.createCards = function(arr) {
