@@ -1,7 +1,7 @@
 var csvp = csvp || {}
 
 describe("csvp.Parser", function() {
-    var url = "https://docs.google.com/spreadsheets/d/1vl97C3ZdUkbJSBA9zUGaADbzVm-b0GK9GX0YPopgvQ8/export?exportFormat=csv&gid=1405862604";
+    var url = "https://docs.google.com/spreadsheets/d/1vl97C3ZdUkbJSBA9zUGaADbzVm-b0GK9GX0YPopgvQ8/export?exportFormat=tsv&gid=1405862604";
     var parser = new csvp.Parser();
     var prefetch = parser.fetchData(url);
 
@@ -17,7 +17,6 @@ describe("csvp.Parser", function() {
 
     it("is able to get data csv from a file", function() {
       var data = prefetch.slice(0);
-      console.log(data);
       expect(data.length).toEqual(35);
       expect(data[1][0]).toEqual('B');
       });
@@ -62,6 +61,14 @@ describe("csvp.Parser", function() {
         var csv = parser.createCSV(cards[18]);
         expect(csv).toEqual("Stand up to talk;level1;gamemode1;gamemode2;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\n");
         });
+
+    //ffs, missed this, didn't fail fabulously enough
+    it("doesn't choke on a line with comma or double quote", function() {
+        var arr = prefetch.slice(0);
+        var cards = parser.createCards(arr);
+        var csv = parser.createCSV(cards[16]);
+        expect(csv).toEqual("Start your responses with \"Yes, but...\";level2;gamemode1;transparent;transparent\n");
+    });
 
     //not an actual test, just to manually get the CSV out for now
     it("is able to produce a full CSV file of cards", function() {

@@ -16,8 +16,7 @@ csvp.Parser.prototype.parseLine = function(arr) {
   if(l[0] === "#") {
     return "";
   }
-  //https://stackoverflow.com/questions/11456850/split-a-string-by-commas-but-ignore-commas-within-double-quotes-using-javascript
-  return l.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g);
+  return l.split('\t');
 }
 
 csvp.Parser.prototype.createCards = function(arr) {
