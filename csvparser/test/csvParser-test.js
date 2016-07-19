@@ -3,6 +3,7 @@ var csvp = csvp || {}
 describe("csvp.Parser", function() {
     var url = "https://docs.google.com/spreadsheets/d/1vl97C3ZdUkbJSBA9zUGaADbzVm-b0GK9GX0YPopgvQ8/export?exportFormat=csv&gid=1405862604";
     var parser = new csvp.Parser();
+    var prefetch = parser.fetchData(url);
 
     beforeEach(function(){
       });
@@ -15,21 +16,21 @@ describe("csvp.Parser", function() {
       });
 
     it("is able to get data csv from a file", function() {
-      var data = parser.fetchData(url);
+      var data = prefetch.slice(0);
       console.log(data);
       expect(data.length).toEqual(35);
       expect(data[1][0]).toEqual('B');
       });
 
     it("is able to read a line", function() {
-      var arr = parser.fetchData(url);
+      var arr = prefetch.slice(0);
       var s = parser.parseLine(arr);
       expect(s[0]).toEqual("Try to do the exact opposite of all the rules");
       expect(s[5]).toEqual("1");
       });
 
     it("is able to create a card out of a line", function() {
-        var arr = parser.fetchData(url);
+        var arr = prefetch.slice(0);
         var i;
         for(i=1;i<7;i++) {
         var s = parser.parseLine(arr);
@@ -44,7 +45,7 @@ describe("csvp.Parser", function() {
         });
 
     it("is able to parse a whole file", function() {
-        var arr = parser.fetchData(url);
+        var arr = prefetch.slice(0);
         var cards = parser.createCards(arr);
 
         var arr2 = parser.fetchData(url);
@@ -56,7 +57,7 @@ describe("csvp.Parser", function() {
 
 
     it("is able to create print csv-files with a card", function() {
-        var arr = parser.fetchData(url);
+        var arr = prefetch.slice(0);
         var cards = parser.createCards(arr);
         var csv = parser.createCSV(cards[18]);
         expect(csv).toEqual("Stand up to talk;level1;gamemode1;gamemode2;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\nStand up to talk;level1;transparent;transparent;gamemode3\n");
@@ -64,7 +65,7 @@ describe("csvp.Parser", function() {
 
     //not an actual test, just to manually get the CSV out for now
     it("is able to produce a full CSV file of cards", function() {
-        var arr = parser.fetchData(url);
+        var arr = prefetch.slice(0);
         var cards = parser.createCards(arr);
         var all = parser.printAll(cards);
         alert(all);
