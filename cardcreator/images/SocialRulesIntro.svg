@@ -7,17 +7,63 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="110mm"
-   height="80mm"
-   viewBox="0 0 389.76378 283.46457"
+   width="80mm"
+   height="110mm"
+   viewBox="0 0 283.46457 389.76378"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="SocialRulesIntro.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8114">
+      <stop
+         style="stop-color:#32c800;stop-opacity:1;"
+         offset="0"
+         id="stop8116" />
+      <stop
+         style="stop-color:#32c800;stop-opacity:0;"
+         offset="1"
+         id="stop8118" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8106">
+      <stop
+         style="stop-color:#32c800;stop-opacity:1;"
+         offset="0"
+         id="stop8108" />
+      <stop
+         style="stop-color:#32c800;stop-opacity:0;"
+         offset="1"
+         id="stop8110" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8106"
+       id="linearGradient8112"
+       x1="-101.36905"
+       y1="865.8476"
+       x2="-138.23665"
+       y2="902.69794"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(24.469475,-30.878147)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8114"
+       id="linearGradient8120"
+       x1="-138.23665"
+       y1="902.69794"
+       x2="-101.36905"
+       y2="884.27277"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(24.469475,-30.878147)" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,20 +71,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5879857"
-     inkscape:cx="146.70765"
-     inkscape:cy="127.32007"
+     inkscape:zoom="1.0989506"
+     inkscape:cx="-29.626717"
+     inkscape:cy="170.71266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="851"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1"
+     inkscape:window-x="42"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
      showguides="false"
      showborder="true"
-     borderlayer="false"
+     borderlayer="true"
      inkscape:showpageshadow="false" />
   <metadata
      id="metadata7">
@@ -48,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,32 +102,40 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-768.8976)"
+     transform="translate(0,-662.59839)"
      style="display:inline">
     <rect
        style="opacity:1;fill:#32c800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5909"
        width="460.62991"
        height="354.33072"
-       x="-35.433067"
-       y="733.46454" />
+       x="627.16534"
+       y="-35.433075"
+       transform="matrix(0,1,1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.77165354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6683"
+       width="266.89871"
+       height="109.44493"
+       x="8.5782642"
+       y="734.95618" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="80.365898"
-       y="1043.9958"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.216291"
+       y="1046.8463"
        id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138"
-         x="80.365898"
-         y="1043.9958"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1;">_Rules by Jussi Hölttä</tspan></text>
+         x="27.216291"
+         y="1046.8463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4223"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(-59.114521,713.68756)"><flowRegion
+       transform="translate(-109.55029,644.15518)"><flowRegion
          id="flowRegion4225"><rect
            id="rect4227"
            width="448.35764"
@@ -90,30 +144,510 @@
            y="31.791382"
            style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5971">Social Rules is designed to help people be more aware of implicit rules in a group, see how changing the rules affect the social dynamics and to have fun while doing so.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5985"></flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5993">The basic idea is:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5987">1) take a social situation</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5989">2) discover implicit rules people follow</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5991">3) apply modifiers to the rules and observe</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5973" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5975" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5977" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5979" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara5981" /></flowRoot>    <g
+         id="flowPara6673">Social Rules</flowPara></flowRoot>    <g
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Icons"
        style="display:inline" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6685"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-53.149606,715.74798)"><flowRegion
+         id="flowRegion6687"><rect
+           id="rect6689"
+           width="164.35916"
+           height="64.232315"
+           x="171.28618"
+           y="95.80545" /></flowRegion><flowPara
+         id="flowPara6691" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6693"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-53.149606,715.74798)"><flowRegion
+         id="flowRegion6695"><rect
+           id="rect6697"
+           width="82.494446"
+           height="57.305302"
+           x="-130.98355"
+           y="37.870422" /></flowRegion><flowPara
+         id="flowPara6699" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6701"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-53.149606,715.74798)"><flowRegion
+         id="flowRegion6703"><rect
+           id="rect6705"
+           width="142.31866"
+           height="93.829559"
+           x="-139.79974"
+           y="22.127207" /></flowRegion><flowPara
+         id="flowPara6707" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6899"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-53.149606,715.74798)"><flowRegion
+         id="flowRegion6901"><rect
+           id="rect6903"
+           width="0"
+           height="49.748558"
+           x="42.821545"
+           y="228.04845" /></flowRegion><flowPara
+         id="flowPara6905" /></flowRoot>    <image
+       sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/gamemode3.png"
+       xlink:href="gamemode3.png"
+       width="56.692913"
+       height="56.692913"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image7437"
+       x="219.68504"
+       y="669.685" />
+    <g
+       id="g7649"
+       transform="matrix(0.50046708,0,0,0.50046708,-84.782502,350.02041)">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+         xlink:href="level1.png"
+         y="875.22986"
+         x="-141.73228"
+         id="image7504"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+         xlink:href="level2.png"
+         y="875.22986"
+         x="-106.29921"
+         id="image7569"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+         xlink:href="level3.png"
+         y="875.22986"
+         x="-70.866142"
+         id="image7634"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+    </g>
+    <g
+       id="g8122"
+       transform="translate(-23.467649,12.451889)">
+      <g
+         id="g7930"
+         transform="translate(12.234741,-29.130327)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text7781"
+           y="859.22809"
+           x="-136.57103"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+             y="859.22809"
+             x="-136.57103"
+             id="tspan7783"
+             sodipodi:role="line">1  </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+             id="tspan7785"
+             y="877.97809"
+             x="-136.57103"
+             sodipodi:role="line">2</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+             id="tspan7787"
+             y="896.72809"
+             x="-136.57103"
+             sodipodi:role="line">3 </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+             id="tspan7789"
+             y="915.47809"
+             x="-136.57103"
+             sodipodi:role="line">4</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+             id="tspan7791"
+             y="934.22809"
+             x="-136.57103"
+             sodipodi:role="line">5</tspan></text>
+        <g
+           transform="matrix(0.5204856,0,0,0.5204856,-52.232298,390.13002)"
+           id="g7741">
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             xlink:href="level1.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7743"
+             x="-141.73228"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             xlink:href="level2.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7745"
+             x="-106.29921"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             xlink:href="level3.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7747"
+             x="-70.866142"
+             y="875.22986" />
+        </g>
+        <g
+           id="g7749"
+           transform="matrix(0.5204856,0,0,0.5204856,-52.232298,408.55522)">
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             xlink:href="level1.png"
+             y="875.22986"
+             x="-141.73228"
+             id="image7751"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             xlink:href="level2.png"
+             y="875.22986"
+             x="-106.29921"
+             id="image7753"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             xlink:href="level3.png"
+             y="875.22986"
+             x="-70.866142"
+             id="image7755"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+        </g>
+        <g
+           transform="matrix(0.5204856,0,0,0.5204856,-52.232298,426.98041)"
+           id="g7757">
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             xlink:href="level1.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7759"
+             x="-141.73228"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             xlink:href="level2.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7761"
+             x="-106.29921"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             xlink:href="level3.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7763"
+             x="-70.866142"
+             y="875.22986" />
+        </g>
+        <g
+           id="g7765"
+           transform="matrix(0.5204856,0,0,0.5204856,-52.232298,445.4056)">
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             xlink:href="level1.png"
+             y="875.22986"
+             x="-141.73228"
+             id="image7767"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             xlink:href="level2.png"
+             y="875.22986"
+             x="-106.29921"
+             id="image7769"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             xlink:href="level3.png"
+             y="875.22986"
+             x="-70.866142"
+             id="image7771"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="35.400002"
+             width="35.400002" />
+        </g>
+        <g
+           transform="matrix(0.5204856,0,0,0.5204856,-52.232298,463.83081)"
+           id="g7773">
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             xlink:href="level1.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7775"
+             x="-141.73228"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             xlink:href="level2.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7777"
+             x="-106.29921"
+             y="875.22986" />
+          <image
+             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             xlink:href="level3.png"
+             width="35.400002"
+             height="35.400002"
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image7779"
+             x="-70.866142"
+             y="875.22986" />
+        </g>
+      </g>
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8004"
+         width="18.425192"
+         height="18.425192"
+         x="-76.882362"
+         y="816.54419" />
+      <path
+         style="fill:url(#linearGradient8120);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -76.899575,908.67021 -36.867595,0 0,-55.27559 18.442405,0 0,36.85038 18.42519,2e-5 0,18.42519"
+         id="path8102"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:url(#linearGradient8112);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -95.341975,816.54423 36.884799,0 0,73.70079 -18.425189,0 0,-36.8504 -18.4424,0 -0.0172,-36.85039"
+         id="path8104"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-135.40582"
+       y="965.55377"
+       id="text7848"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7850"
+         x="-135.40582"
+         y="965.55377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">1  </tspan><tspan
+         sodipodi:role="line"
+         x="-135.40582"
+         y="984.30377"
+         id="tspan7852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">2     (  )</tspan><tspan
+         sodipodi:role="line"
+         x="-135.40582"
+         y="1003.0538"
+         id="tspan7854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">3 ( )</tspan><tspan
+         sodipodi:role="line"
+         x="-135.40582"
+         y="1021.8038"
+         id="tspan7856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">4         (   )</tspan><tspan
+         sodipodi:role="line"
+         x="-135.40582"
+         y="1040.5537"
+         id="tspan7858"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">5     (  )</tspan></text>
+    <g
+       id="g7860"
+       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,496.45571)">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+         xlink:href="level1.png"
+         y="875.22986"
+         x="-141.73228"
+         id="image7862"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+    </g>
+    <g
+       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,514.88091)"
+       id="g7868">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+         xlink:href="level1.png"
+         width="35.400002"
+         height="35.400002"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image7870"
+         x="-141.73228"
+         y="875.22986" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+         xlink:href="level2.png"
+         width="35.400002"
+         height="35.400002"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image7872"
+         x="-106.29921"
+         y="875.22986" />
+    </g>
+    <g
+       id="g7876"
+       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,533.3061)">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+         xlink:href="level1.png"
+         y="875.22986"
+         x="-141.73228"
+         id="image7878"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+         xlink:href="level2.png"
+         y="875.22986"
+         x="-106.29921"
+         id="image7880"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+    </g>
+    <g
+       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,551.73129)"
+       id="g7884">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+         xlink:href="level2.png"
+         width="35.400002"
+         height="35.400002"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image7888"
+         x="-106.29921"
+         y="875.22986" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+         xlink:href="level3.png"
+         width="35.400002"
+         height="35.400002"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image7890"
+         x="-70.866142"
+         y="875.22986" />
+    </g>
+    <g
+       id="g7892"
+       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,570.1565)">
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+         xlink:href="level2.png"
+         y="875.22986"
+         x="-106.29921"
+         id="image7896"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+      <image
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+         xlink:href="level3.png"
+         y="875.22986"
+         x="-70.866142"
+         id="image7898"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="35.400002"
+         width="35.400002" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-168.9559"
+       y="913.99316"
+       id="text7926"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7928"
+         x="-168.9559"
+         y="913.99316" /></text>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot10957"><flowRegion
+         id="flowRegion10959"><use
+           x="0"
+           y="0"
+           xlink:href="#rect6683"
+           id="use10961"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara10963"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center">Social Rules is designed to help people be more aware of implicit rules in a group, see how changing the rules affect the social dynamics and to have fun while doing so. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center"
+         id="flowPara10967" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center"
+         id="flowPara10969">The basic idea is:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center"
+         id="flowPara10971">1) take a social situation</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center"
+         id="flowPara10973">2) discover implicit rules people follow</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-anchor:middle;text-align:center"
+         id="flowPara10975">3) apply modifiers to the rules and observe</flowPara></flowRoot>    <image
+       sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/gamemode2.png"
+       xlink:href="gamemode2.png"
+       y="669.685"
+       x="7.0866141"
+       id="image11119"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="56.692913"
+       width="56.692913" />
   </g>
 </svg>
