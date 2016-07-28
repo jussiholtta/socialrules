@@ -113,7 +113,7 @@
        y="-35.433075"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
-       y="935.94647"
+       y="908.4646"
        x="7.834753"
        height="69.370636"
        width="140.23679"
@@ -125,7 +125,7 @@
        width="140.23677"
        height="69.370636"
        x="7.8347535"
-       y="829.64728" />
+       y="802.16541" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -160,13 +160,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="5.8931522"
-       y="825.07788"
+       y="797.59601"
        id="text6679"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6681"
          x="5.8931522"
-         y="825.07788"
+         y="797.59601"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Round 0</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -205,7 +205,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6737"
-       transform="translate(12.803906,6.6960753)"><flowRegion
+       transform="translate(15.461953,6.6960753)"><flowRegion
          id="flowRegion6739"><use
            x="0"
            y="0"
@@ -213,7 +213,7 @@
            id="use6741"
            width="100%"
            height="100%"
-           transform="translate(-8.8039062,-2.6960753)" /></flowRegion><flowPara
+           transform="translate(-12.803906,-6.6960753)" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
          id="flowPara6743">Set discussion topic</flowPara><flowPara
          id="flowPara6747"
@@ -233,7 +233,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6891"
-       transform="translate(15.210607,9.891006)"><flowRegion
+       transform="translate(17.868654,9.891006)"><flowRegion
          id="flowRegion6893"><use
            x="0"
            y="0"
@@ -241,7 +241,7 @@
            id="use6895"
            width="100%"
            height="100%"
-           transform="translate(-11.210607,-5.891006)" /></flowRegion><flowPara
+           transform="translate(-15.210607,-9.891006)" /></flowRegion><flowPara
          id="flowPara6897"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Deal new modifiers</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
@@ -263,12 +263,12 @@
          id="flowPara6905" /></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text6978"
-       y="931.37714"
+       y="903.89526"
        x="5.8931522"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-         y="931.37714"
+         y="903.89526"
          x="5.8931522"
          id="tspan6980"
          sodipodi:role="line">Rounds 1-5</tspan></text>
@@ -286,16 +286,16 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="158.34325"
-       y="931.37714"
+       y="903.89526"
        id="text7737"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7739"
          x="158.34325"
-         y="931.37714"
+         y="903.89526"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Modifier guide:</tspan></text>
     <g
-       transform="translate(282.2614,118.02424)"
+       transform="translate(282.2614,90.542351)"
        id="g8154">
       <g
          transform="translate(12.234741,-29.130327)"
@@ -533,7 +533,7 @@
          x="-168.9559"
          y="913.99316" /></text>
     <rect
-       y="734.49255"
+       y="707.01068"
        x="8.1150455"
        height="68.810051"
        width="267.23526"
@@ -543,16 +543,21 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4929"
-       transform="matrix(0.9628756,0,0,0.9628756,6.435997,30.194066)"><flowRegion
+       transform="matrix(0.9628756,0,0,0.9628756,9.0940435,30.194066)"><flowRegion
          id="flowRegion4931"><use
            x="0"
            y="0"
            xlink:href="#rect4923"
            id="use4933"
            width="100%"
-           height="100%" /></flowRegion><flowPara
+           height="100%"
+           transform="matrix(1.0385558,0,0,1.0385558,-6.6841418,-31.358221)" /></flowRegion><flowPara
          id="flowPara6450"
-         style="font-size:10.38555717px">Carnival intentonally descends into chaos fast and is meant for groups that already get along well or contain a lot of people used to observing behavior (coaches, facilitators, psychotherapists, etc).</flowPara></flowRoot>    <flowRoot
+         style="font-size:10.38555717px">Carnival intentonally descends into chaos fast and is for groups that have played before or already get along well</flowPara><flowPara
+         style="font-size:10.38555717px"
+         id="flowPara16926">for other reasons.</flowPara><flowPara
+         style="font-size:10.38555717px"
+         id="flowPara16928">The purpose is to have fun and spark ideas about how to  change the world.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6333"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -592,5 +597,17 @@
            height="16.89559"
            x="245.85997"
            y="205.66011" /></flowRegion><flowPara
-         id="flowPara14546"></flowPara></flowRoot>  </g>
+         id="flowPara14546"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.8931522"
+       y="998.93427"
+       id="text16922"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan16924"
+         x="5.8931522"
+         y="998.93427"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Discussion</tspan></text>
+  </g>
 </svg>
