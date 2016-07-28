@@ -80,8 +80,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5541508"
-     inkscape:cx="275.1406"
-     inkscape:cy="174.51956"
+     inkscape:cx="223.66554"
+     inkscape:cy="277.46967"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -720,7 +720,7 @@
            id="use6422"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara6424"> New Team is a more slow paced version recommended for  beginners and groups that are not yet socially comfortable.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7145">New Team is a more slow paced version recommended for  beginners and groups that are not yet socially comfortable. The slower start gives more time for people to warm up and get into the game before it gets chaotic.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6426"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -730,5 +730,15 @@
            height="11.581887"
            x="176.94551"
            y="115.6591" /></flowRegion><flowPara
-         id="flowPara6432"></flowPara></flowRoot>  </g>
+         id="flowPara6432"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14524"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion14526"><rect
+           id="rect14528"
+           width="1.2868764"
+           height="39.893169"
+           x="325.57974"
+           y="106.00753" /></flowRegion><flowPara
+         id="flowPara14530"></flowPara></flowRoot>  </g>
 </svg>
