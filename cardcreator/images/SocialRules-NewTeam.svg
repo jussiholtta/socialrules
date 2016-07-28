@@ -47,10 +47,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient13706"
        id="linearGradient13712"
-       x1="-257.09091"
-       y1="907.16681"
-       x2="-293.69952"
-       y2="944.6413"
+       x1="-262.66739"
+       y1="914.69507"
+       x2="-290.35364"
+       y2="931.53662"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -68,8 +68,8 @@
        gradientUnits="userSpaceOnUse"
        x1="-137.23482"
        y1="884.27173"
-       x2="-100.609"
-       y2="848.2677"
+       x2="-104.79135"
+       y2="861.93005"
        gradientTransform="matrix(-1,0,0,-1,-219.41863,1750.9646)" />
   </defs>
   <sodipodi:namedview
@@ -79,9 +79,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.81663671"
-     inkscape:cx="-22.241463"
-     inkscape:cy="170.20769"
+     inkscape:zoom="1.5541508"
+     inkscape:cx="275.1406"
+     inkscape:cy="174.51956"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -121,38 +121,19 @@
        y="-35.433075"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect13291"
-       width="140.23679"
-       height="69.370636"
-       x="7.8343673"
-       y="948.98395" />
-    <rect
-       y="840.51147"
+       y="886.57446"
        x="7.8343673"
        height="69.370636"
        width="140.23679"
        id="rect6821"
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.77165354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.77165354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6683"
        width="140.23677"
        height="69.370636"
        x="7.8343678"
-       y="734.21228" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="27.216291"
-       y="1046.8463"
-       id="text4136"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4138"
-         x="27.216291"
-         y="1046.8463"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
+       y="797.99182" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4223"
@@ -175,13 +156,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="5.8927665"
-       y="731.8161"
+       y="793.42242"
        id="text6679"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6681"
          x="5.8927665"
-         y="731.8161"
+         y="793.42242"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Round 0</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -220,7 +201,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6737"
-       transform="translate(6.2025252,4.810817)"><flowRegion
+       transform="translate(6.2022969,1.1942411)"><flowRegion
          id="flowRegion6739"><use
            x="0"
            y="0"
@@ -247,7 +228,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6891"
-       transform="translate(5.948619,5.3793422)"><flowRegion
+       transform="translate(5.948619,3.2066058)"><flowRegion
          id="flowRegion6893"><use
            x="0"
            y="0"
@@ -258,7 +239,7 @@
          id="flowPara6897"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Deal modifiers every other person</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-         id="flowPara6907">Discuss 2-3 min</flowPara><flowPara
+         id="flowPara6907">Discuss 3-4 min</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
          id="flowPara6909">Observations?</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
@@ -276,203 +257,15 @@
          id="flowPara6905" /></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text6978"
-       y="838.11536"
+       y="882.00513"
        x="5.8927665"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
-         y="838.11536"
+         y="882.00513"
          x="5.8927665"
          id="tspan6980"
          sodipodi:role="line">Rounds 1&amp;2</tspan></text>
-    <g
-       id="g7649"
-       transform="matrix(0.50046708,0,0,0.50046708,-84.782502,350.02041)">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
-         xlink:href="level1.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7504"
-         x="-141.73228"
-         y="875.22986" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
-         xlink:href="level2.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7569"
-         x="-106.29921"
-         y="875.22986" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
-         xlink:href="level3.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7634"
-         x="-70.866142"
-         y="875.22986" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="158.34286"
-       y="838.11536"
-       id="text7737"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7739"
-         x="158.34286"
-         y="838.11536"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Modifiers</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-135.40582"
-       y="965.55377"
-       id="text7848"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7850"
-         x="-135.40582"
-         y="965.55377"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">1  </tspan><tspan
-         sodipodi:role="line"
-         x="-135.40582"
-         y="984.30377"
-         id="tspan7852"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">2     (  )</tspan><tspan
-         sodipodi:role="line"
-         x="-135.40582"
-         y="1003.0538"
-         id="tspan7854"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">3 ( )</tspan><tspan
-         sodipodi:role="line"
-         x="-135.40582"
-         y="1021.8038"
-         id="tspan7856"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">4         (   )</tspan><tspan
-         sodipodi:role="line"
-         x="-135.40582"
-         y="1040.5537"
-         id="tspan7858"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">5     (  )</tspan></text>
-    <g
-       id="g7860"
-       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,496.45571)">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
-         xlink:href="level1.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7862"
-         x="-141.73228"
-         y="875.22986" />
-    </g>
-    <g
-       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,514.88091)"
-       id="g7868">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
-         xlink:href="level1.png"
-         y="875.22986"
-         x="-141.73228"
-         id="image7870"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.400002"
-         width="35.400002" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
-         xlink:href="level2.png"
-         y="875.22986"
-         x="-106.29921"
-         id="image7872"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.400002"
-         width="35.400002" />
-    </g>
-    <g
-       id="g7876"
-       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,533.3061)">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
-         xlink:href="level1.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7878"
-         x="-141.73228"
-         y="875.22986" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
-         xlink:href="level2.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7880"
-         x="-106.29921"
-         y="875.22986" />
-    </g>
-    <g
-       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,551.73129)"
-       id="g7884">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
-         xlink:href="level2.png"
-         y="875.22986"
-         x="-106.29921"
-         id="image7888"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.400002"
-         width="35.400002" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
-         xlink:href="level3.png"
-         y="875.22986"
-         x="-70.866142"
-         id="image7890"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="35.400002"
-         width="35.400002" />
-    </g>
-    <g
-       id="g7892"
-       transform="matrix(0.5204856,0,0,0.5204856,-51.067085,570.1565)">
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
-         xlink:href="level2.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7896"
-         x="-106.29921"
-         y="875.22986" />
-      <image
-         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
-         xlink:href="level3.png"
-         width="35.400002"
-         height="35.400002"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image7898"
-         x="-70.866142"
-         y="875.22986" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -487,47 +280,28 @@
     <image
        sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/gamemode2.png"
        xlink:href="gamemode2.png"
-       width="56.692913"
-       height="56.692913"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="669.685"
+       x="240.94489"
        id="image13136"
-       x="219.68504"
-       y="669.685" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="35.433071"
+       width="35.433071" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="5.8927665"
-       y="944.41455"
+       y="970.58777"
        id="text13293"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan13295"
          x="5.8927665"
-         y="944.41455"
+         y="970.58777"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Rounds 3-7</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot13311"
-       transform="translate(5.948619,5.0765769)"><flowRegion
-         id="flowRegion13313"><use
-           x="0"
-           y="0"
-           xlink:href="#rect13291"
-           id="use13315"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara13317"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Deal new modifiers</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-         id="flowPara13319">Discuss 2-3 min</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-         id="flowPara13321">Observations?</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-         id="flowPara13323">Remove revealed rules</flowPara></flowRoot>    <g
+    <g
        id="g13728"
-       transform="translate(463.50771,-48.221966)">
+       transform="matrix(1.1538451,0,0,1.1538451,510.41244,-139.64337)">
       <g
          transform="translate(-180.19135,72.197392)"
          id="g13544">
@@ -547,75 +321,70 @@
              sodipodi:role="line"
              x="-124.33629"
              y="848.84778"
-             id="tspan13550"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">2</tspan><tspan
-             sodipodi:role="line"
-             x="-124.33629"
-             y="867.59778"
              id="tspan13556"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica" /></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica">2</tspan></text>
         <g
            id="g13558">
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
              xlink:href="level1.png"
-             y="816.54425"
-             x="-113.76717"
-             id="image13560"
-             style="image-rendering:optimizeQuality"
-             preserveAspectRatio="none"
+             width="18.425192"
              height="18.425192"
-             width="18.425192" />
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image13560"
+             x="-113.76717"
+             y="816.54425" />
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
              xlink:href="level2.png"
-             y="816.54425"
-             x="-95.324768"
-             id="image13562"
-             style="image-rendering:optimizeQuality"
-             preserveAspectRatio="none"
+             width="18.425192"
              height="18.425192"
-             width="18.425192" />
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image13562"
+             x="-95.324768"
+             y="816.54425" />
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
              xlink:href="level3.png"
-             y="816.54425"
-             x="-76.882362"
-             id="image13564"
-             style="image-rendering:optimizeQuality"
-             preserveAspectRatio="none"
+             width="18.425192"
              height="18.425192"
-             width="18.425192" />
+             preserveAspectRatio="none"
+             style="image-rendering:optimizeQuality"
+             id="image13564"
+             x="-76.882362"
+             y="816.54425" />
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
              xlink:href="level1.png"
-             width="18.425192"
-             height="18.425192"
-             preserveAspectRatio="none"
-             style="image-rendering:optimizeQuality"
-             id="image13566"
+             y="834.96942"
              x="-113.76717"
-             y="834.96942" />
+             id="image13566"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="18.425192"
+             width="18.425192" />
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
              xlink:href="level2.png"
-             width="18.425192"
-             height="18.425192"
-             preserveAspectRatio="none"
-             style="image-rendering:optimizeQuality"
-             id="image13568"
+             y="834.96942"
              x="-95.324768"
-             y="834.96942" />
+             id="image13568"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="18.425192"
+             width="18.425192" />
           <image
              sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
              xlink:href="level3.png"
-             width="18.425192"
-             height="18.425192"
-             preserveAspectRatio="none"
-             style="image-rendering:optimizeQuality"
-             id="image13570"
+             y="834.96942"
              x="-76.882362"
-             y="834.96942" />
+             id="image13570"
+             style="image-rendering:optimizeQuality"
+             preserveAspectRatio="none"
+             height="18.425192"
+             width="18.425192" />
           <rect
              style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect13572"
@@ -633,7 +402,7 @@
     </g>
     <g
        id="g13744"
-       transform="translate(306.89387,119.24007)">
+       transform="matrix(1.1538457,0,0,1.1538457,329.57766,-28.187141)">
       <g
          transform="translate(-23.467649,12.451889)"
          id="g8122">
@@ -678,33 +447,33 @@
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
                xlink:href="level1.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7743"
+               y="875.22986"
                x="-141.73228"
-               y="875.22986" />
+               id="image7743"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
                xlink:href="level2.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7745"
+               y="875.22986"
                x="-106.29921"
-               y="875.22986" />
+               id="image7745"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
                xlink:href="level3.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7747"
+               y="875.22986"
                x="-70.866142"
-               y="875.22986" />
+               id="image7747"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
           </g>
           <g
              transform="matrix(0.5204856,0,0,0.5204856,-52.232298,408.55522)"
@@ -712,33 +481,33 @@
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
                xlink:href="level1.png"
-               y="875.22986"
-               x="-141.73228"
-               id="image7751"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7751"
+               x="-141.73228"
+               y="875.22986" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
                xlink:href="level2.png"
-               y="875.22986"
-               x="-106.29921"
-               id="image7753"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7753"
+               x="-106.29921"
+               y="875.22986" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
                xlink:href="level3.png"
-               y="875.22986"
-               x="-70.866142"
-               id="image7755"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7755"
+               x="-70.866142"
+               y="875.22986" />
           </g>
           <g
              id="g7757"
@@ -746,33 +515,33 @@
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
                xlink:href="level1.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7759"
+               y="875.22986"
                x="-141.73228"
-               y="875.22986" />
+               id="image7759"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
                xlink:href="level2.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7761"
+               y="875.22986"
                x="-106.29921"
-               y="875.22986" />
+               id="image7761"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
                xlink:href="level3.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7763"
+               y="875.22986"
                x="-70.866142"
-               y="875.22986" />
+               id="image7763"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
           </g>
           <g
              transform="matrix(0.5204856,0,0,0.5204856,-52.232298,445.4056)"
@@ -780,33 +549,33 @@
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
                xlink:href="level1.png"
-               y="875.22986"
-               x="-141.73228"
-               id="image7767"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7767"
+               x="-141.73228"
+               y="875.22986" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
                xlink:href="level2.png"
-               y="875.22986"
-               x="-106.29921"
-               id="image7769"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7769"
+               x="-106.29921"
+               y="875.22986" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
                xlink:href="level3.png"
-               y="875.22986"
-               x="-70.866142"
-               id="image7771"
-               style="image-rendering:optimizeQuality"
-               preserveAspectRatio="none"
+               width="35.400002"
                height="35.400002"
-               width="35.400002" />
+               preserveAspectRatio="none"
+               style="image-rendering:optimizeQuality"
+               id="image7771"
+               x="-70.866142"
+               y="875.22986" />
           </g>
           <g
              id="g7773"
@@ -814,33 +583,33 @@
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
                xlink:href="level1.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7775"
+               y="875.22986"
                x="-141.73228"
-               y="875.22986" />
+               id="image7775"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
                xlink:href="level2.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7777"
+               y="875.22986"
                x="-106.29921"
-               y="875.22986" />
+               id="image7777"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
             <image
                sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
                xlink:href="level3.png"
-               width="35.400002"
-               height="35.400002"
-               preserveAspectRatio="none"
-               style="image-rendering:optimizeQuality"
-               id="image7779"
+               y="875.22986"
                x="-70.866142"
-               y="875.22986" />
+               id="image7779"
+               style="image-rendering:optimizeQuality"
+               preserveAspectRatio="none"
+               height="35.400002"
+               width="35.400002" />
           </g>
         </g>
         <rect
@@ -862,5 +631,104 @@
          id="path13724"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5625"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5627"><rect
+           id="rect5629"
+           width="172.44144"
+           height="303.70282"
+           x="-221.34274"
+           y="95.069084" /></flowRegion><flowPara
+         id="flowPara5631"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6375"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6377"><rect
+           id="rect6379"
+           width="0"
+           height="14.155641"
+           x="-93.941978"
+           y="133.03194" /></flowRegion><flowPara
+         id="flowPara6381"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.216291"
+       y="1046.8463"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="27.216291"
+         y="1046.8463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.77165354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13291"
+       width="140.23679"
+       height="69.370636"
+       x="7.8343673"
+       y="975.15717" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot13311"
+       transform="translate(5.948619,1.5340234)"><flowRegion
+         id="flowRegion13313"><use
+           x="0"
+           y="0"
+           xlink:href="#rect13291"
+           id="use13315"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara13317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Deal new modifiers</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         id="flowPara13319">Discuss 2-3 min</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         id="flowPara13321">Observations?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         id="flowPara13323">Remove revealed rules</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="158.34286"
+       y="881.9978"
+       id="text6401"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6403"
+         x="158.34286"
+         y="881.9978"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Modifier Guide</tspan></text>
+    <rect
+       y="725.71777"
+       x="7.95082"
+       height="51.421211"
+       width="267.56293"
+       id="rect6405"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.72839606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6418"
+       transform="translate(2.6787494,1.125159)"><flowRegion
+         id="flowRegion6420"><use
+           x="0"
+           y="0"
+           xlink:href="#rect6405"
+           id="use6422"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara6424"> New Team is a more slow paced version recommended for  beginners and groups that are not yet socially comfortable.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6426"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion6428"><rect
+           id="rect6430"
+           width="1.2868764"
+           height="11.581887"
+           x="176.94551"
+           y="115.6591" /></flowRegion><flowPara
+         id="flowPara6432"></flowPara></flowRoot>  </g>
 </svg>
