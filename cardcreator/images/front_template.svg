@@ -28,9 +28,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.6688309"
      inkscape:cx="139.86896"
-     inkscape:cy="173.9304"
+     inkscape:cy="125.99264"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1147"
@@ -61,16 +61,16 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="25.836706"
-       y="1038.0037"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffce00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="65.984573"
+       y="1048.1904"
        id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138"
-         x="25.836706"
-         y="1038.0037"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
+         x="65.984573"
+         y="1048.1904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffce00;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -88,33 +88,33 @@
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE1.png"
          xlink:href="TEMPLATEGAMEMODE1.png"
-         y="990.01617"
-         x="12.531635"
+         y="988.58264"
+         x="-7.0866141"
          id="image10054"
          style="image-rendering:optimizeQuality"
          preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
+         height="70.866142"
+         width="70.866142" />
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE2.png"
          xlink:href="TEMPLATEGAMEMODE2.png"
-         y="1015.7827"
-         x="247.72125"
+         y="988.58264"
+         x="219.68504"
          id="image10132"
          style="image-rendering:optimizeQuality"
          preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
+         height="70.866142"
+         width="70.866142" />
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE3.png"
          xlink:href="TEMPLATEGAMEMODE3.png"
-         y="663.38251"
-         x="247.72125"
+         y="655.51178"
+         x="219.68504"
          id="image10178"
          style="image-rendering:optimizeQuality"
          preserveAspectRatio="none"
-         height="35.433071"
-         width="35.433071" />
+         height="70.866142"
+         width="70.866142" />
     </g>
     <flowRoot
        xml:space="preserve"
