@@ -30,7 +30,7 @@
      inkscape:cx="50.285288"
      inkscape:cy="125.99264"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1147"
@@ -77,44 +77,44 @@
        inkscape:label="Icons"
        style="display:inline">
       <image
-         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATELEVEL.png"
-         xlink:href="TEMPLATELEVEL.png"
-         y="715.74799"
-         x="-1.0813314e-006"
-         id="image7575"
-         preserveAspectRatio="none"
+         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
+         xlink:href="level3.png"
+         width="283.46457"
          height="283.46457"
-         width="283.46457" />
+         preserveAspectRatio="none"
+         id="image7575"
+         x="-1.0813314e-006"
+         y="715.74799" />
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE1.png"
          xlink:href="TEMPLATEGAMEMODE1.png"
-         width="70.866142"
-         height="70.866142"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image10054"
+         y="988.58264"
          x="-7.0866141"
-         y="988.58264" />
+         id="image10054"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="70.866142"
+         width="70.866142" />
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE2.png"
          xlink:href="TEMPLATEGAMEMODE2.png"
-         width="70.866142"
-         height="70.866142"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image10132"
+         y="988.58264"
          x="219.68504"
-         y="988.58264" />
+         id="image10132"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="70.866142"
+         width="70.866142" />
       <image
          sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE3.png"
          xlink:href="TEMPLATEGAMEMODE3.png"
-         width="70.866142"
-         height="70.866142"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image10178"
+         y="655.51178"
          x="219.68504"
-         y="655.51178" />
+         id="image10178"
+         style="image-rendering:optimizeQuality"
+         preserveAspectRatio="none"
+         height="70.866142"
+         width="70.866142" />
     </g>
     <flowRoot
        xml:space="preserve"
