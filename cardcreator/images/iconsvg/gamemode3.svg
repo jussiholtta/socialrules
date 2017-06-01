@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1cm"
-   height="1cm"
-   viewBox="0 0 35.433071 35.43307"
+   width="2cm"
+   height="2cm"
+   viewBox="0 0 70.866142 70.86614"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,25 +25,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.880667"
-     inkscape:cx="17.716535"
-     inkscape:cy="17.716535"
+     inkscape:zoom="3.4113611"
+     inkscape:cx="59.907467"
+     inkscape:cy="5.981825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
        units="mm"
-       spacingx="3.5433071"
-       spacingy="3.543307"
-       empspacing="5" />
+       spacingx="35.433071"
+       spacingy="35.43307"
+       empspacing="5"
+       enabled="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -61,126 +62,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1016.9292)">
-    <g
-       transform="matrix(1.8,0,0,1.8,15.247209,-842.69591)"
-       id="g4327">
-      <circle
-         r="1.7716535"
-         cy="1036.5001"
-         cx="7.3508568"
-         id="circle4329"
-         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4331"
-         d="m 7.350857,1038.2717 0,5.315 -1.7716536,3.5433"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4333"
-         d="m 7.350857,1043.5867 1.7716534,3.5433"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4335"
-         d="m 7.350857,1040.0434 -3.5433071,-1.7717"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4337"
-         d="m 7.350857,1040.0434 3.543307,-1.7717"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g4302"
-       transform="matrix(1.6,0,0,1.6,4.1753338,-637.69649)">
-      <circle
-         r="1.7716535"
-         cy="1036.5001"
-         cx="7.3508568"
-         id="path4178"
-         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4290"
-         d="m 7.350857,1038.2717 0,5.315 -1.7716536,3.5433"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4292"
-         d="m 7.350857,1043.5867 1.7716534,3.5433"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4294"
-         d="m 7.350857,1040.0434 -3.5433071,-1.7717"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4296"
-         d="m 7.350857,1040.0434 3.543307,-1.7717"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <g
-       id="g4339"
-       transform="matrix(2,0,0,2,-6.8365255,-1046.0004)">
-      <circle
-         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4341"
-         cx="7.3508568"
-         cy="1036.5001"
-         r="1.7716535" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1038.2717 0,5.315 -1.7716536,3.5433"
-         id="path4343"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1043.5867 1.7716534,3.5433"
-         id="path4345"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1040.0434 -3.5433071,-1.7717"
-         id="path4347"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1040.0434 3.543307,-1.7717"
-         id="path4349"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g4315"
-       transform="matrix(2,0,0,2,5.3452477,-1043.0874)">
-      <circle
-         style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4317"
-         cx="7.3508568"
-         cy="1036.5001"
-         r="1.7716535" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1038.2717 0,5.315 -1.7716536,3.5433"
-         id="path4319"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1043.5867 1.7716534,3.5433"
-         id="path4321"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1040.0434 -3.5433071,-1.7717"
-         id="path4323"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 7.350857,1040.0434 3.543307,-1.7717"
-         id="path4325"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(0,-981.49613)">
+    <path
+       style="fill:#453881;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.866142,1052.3623 0,981.49613 l 70.866142,0 0,70.86617"
+       id="path10872"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

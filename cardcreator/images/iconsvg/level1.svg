@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1cm"
-   height="1cm"
-   viewBox="0 0 35.433071 35.43307"
+   width="8cm"
+   height="11cm"
+   viewBox="0 0 283.46457 389.76377"
    id="svg11174"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="level1.svg">
+   sodipodi:docname="level1.svg"
+   inkscape:export-filename="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATELEVEL_2.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs11176" />
   <sodipodi:namedview
@@ -25,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.945595"
-     inkscape:cx="47.576198"
-     inkscape:cy="32.249458"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="97.088208"
+     inkscape:cy="190.21322"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -44,7 +47,8 @@
        spacingx="3.5433071"
        spacingy="3.543307"
        empspacing="5"
-       dotted="false" />
+       dotted="false"
+       enabled="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata11179">
@@ -54,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,18 +66,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1016.9292)">
+     transform="translate(0,-662.59849)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="12.703317"
-       y="1040.0144"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffce00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.845566"
+       y="921.86023"
        id="text9048"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="12.703317"
-         y="1040.0144"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ff6600;fill-opacity:1"
+         x="82.845566"
+         y="921.86023"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#ffce00;fill-opacity:1"
          id="tspan9052">S</tspan></text>
   </g>
 </svg>
