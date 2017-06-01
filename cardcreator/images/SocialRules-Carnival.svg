@@ -20,26 +20,24 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient8114">
       <stop
-         style="stop-color:#32c800;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop8116" />
       <stop
-         style="stop-color:#32c800;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop8118" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient8106">
       <stop
-         style="stop-color:#32c800;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop8108" />
       <stop
-         style="stop-color:#32c800;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop8110" />
     </linearGradient>
@@ -72,15 +70,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7164242"
-     inkscape:cx="141.73228"
+     inkscape:cx="54.632599"
      inkscape:cy="194.88189"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="851"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
      showborder="true"
@@ -105,22 +103,14 @@
      transform="translate(0,-662.59839)"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#32c800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5909"
-       width="460.62991"
-       height="354.33072"
-       x="627.16534"
-       y="-35.433075"
-       transform="matrix(0,1,1,0,0,0)" />
-    <rect
        y="908.4646"
        x="7.834753"
        height="69.370636"
        width="140.23679"
        id="rect6821"
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#ffce00;fill-opacity:1;fill-rule:evenodd;stroke:#453881;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffce00;fill-opacity:1;fill-rule:evenodd;stroke:#453881;stroke-width:1.49550653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
        id="rect6683"
        width="140.23677"
        height="69.370636"
@@ -128,7 +118,7 @@
        y="802.16541" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffce00;fill-opacity:0.09803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="27.216291"
        y="1046.8463"
        id="text4136"
@@ -137,11 +127,11 @@
          id="tspan4138"
          x="27.216291"
          y="1046.8463"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffce00;fill-opacity:0.09803922;">_Rules by Jussi Hölttä</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4223"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:#453881;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647;"
        transform="translate(-109.55029,644.15518)"><flowRegion
          id="flowRegion4225"><rect
            id="rect4227"
@@ -149,8 +139,8 @@
            height="397.80518"
            x="26.964985"
            y="31.791382"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#453881;fill-opacity:1;stroke:#453881;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#453881;fill-opacity:1;stroke:#453881;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647;"
          id="flowPara6673">Carnival</flowPara></flowRoot>    <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -158,7 +148,7 @@
        style="display:inline" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="5.8931522"
        y="797.59601"
        id="text6679"
@@ -167,7 +157,7 @@
          id="tspan6681"
          x="5.8931522"
          y="797.59601"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Round 0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#453881;fill-opacity:1;">Round 0</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6685"
@@ -203,7 +193,7 @@
            y="22.127207" /></flowRegion><flowPara
          id="flowPara6707" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot6737"
        transform="translate(15.461953,6.6960753)"><flowRegion
          id="flowRegion6739"><use
@@ -214,24 +204,24 @@
            width="100%"
            height="100%"
            transform="translate(-12.803906,-6.6960753)" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6743">Set discussion topic</flowPara><flowPara
          id="flowPara6747"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Discuss 2-5 min</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;">Discuss 2-5 min</flowPara><flowPara
          id="flowPara6749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">What implicit rules were you following?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;">What implicit rules were you following?</flowPara><flowPara
          id="flowPara6751"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Write global rules to the wall</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;">Write global rules to the wall</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6753" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6755" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6757" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6759" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot6891"
        transform="translate(17.868654,9.891006)"><flowRegion
          id="flowRegion6893"><use
@@ -243,12 +233,12 @@
            height="100%"
            transform="translate(-15.210607,-9.891006)" /></flowRegion><flowPara
          id="flowPara6897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Deal new modifiers</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;">Deal new modifiers</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6907">Discuss 2-3 min</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6909">Observations?</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#453881;fill-opacity:1;"
          id="flowPara6911">Remove revealed rules</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6899"
@@ -265,26 +255,26 @@
        id="text6978"
        y="903.89526"
        x="5.8931522"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#453881;fill-opacity:1;"
          y="903.89526"
          x="5.8931522"
          id="tspan6980"
          sodipodi:role="line">Rounds 1-5</tspan></text>
     <image
-       sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/gamemode3.png"
+       sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\gamemode3.png"
        xlink:href="gamemode3.png"
-       width="35.433071"
-       height="35.433071"
+       width="70.866142"
+       height="70.866142"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        id="image7437"
-       x="240.94489"
-       y="669.685" />
+       x="219.68504"
+       y="655.51178" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="158.34325"
        y="903.89526"
        id="text7737"
@@ -293,7 +283,7 @@
          id="tspan7739"
          x="158.34325"
          y="903.89526"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Modifier guide:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#453881;fill-opacity:1;">Modifier guide:</tspan></text>
     <g
        transform="translate(282.2614,90.542351)"
        id="g8154">
@@ -336,7 +326,7 @@
            id="g8170"
            transform="matrix(0.5204856,0,0,0.5204856,-52.232298,390.13002)">
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level1.png"
              xlink:href="level1.png"
              y="875.22986"
              x="-141.73228"
@@ -346,7 +336,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level2.png"
              xlink:href="level2.png"
              y="875.22986"
              x="-106.29921"
@@ -356,7 +346,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
              xlink:href="level3.png"
              y="875.22986"
              x="-70.866142"
@@ -370,7 +360,7 @@
            transform="matrix(0.5204856,0,0,0.5204856,-52.232298,408.55522)"
            id="g8178">
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level1.png"
              xlink:href="level1.png"
              width="35.400002"
              height="35.400002"
@@ -380,7 +370,7 @@
              x="-141.73228"
              y="875.22986" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level2.png"
              xlink:href="level2.png"
              width="35.400002"
              height="35.400002"
@@ -390,7 +380,7 @@
              x="-106.29921"
              y="875.22986" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
              xlink:href="level3.png"
              width="35.400002"
              height="35.400002"
@@ -404,7 +394,7 @@
            id="g8186"
            transform="matrix(0.5204856,0,0,0.5204856,-52.232298,426.98041)">
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level1.png"
              xlink:href="level1.png"
              y="875.22986"
              x="-141.73228"
@@ -414,7 +404,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level2.png"
              xlink:href="level2.png"
              y="875.22986"
              x="-106.29921"
@@ -424,7 +414,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
              xlink:href="level3.png"
              y="875.22986"
              x="-70.866142"
@@ -438,7 +428,7 @@
            transform="matrix(0.5204856,0,0,0.5204856,-52.232298,445.4056)"
            id="g8194">
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level1.png"
              xlink:href="level1.png"
              width="35.400002"
              height="35.400002"
@@ -448,7 +438,7 @@
              x="-141.73228"
              y="875.22986" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level2.png"
              xlink:href="level2.png"
              width="35.400002"
              height="35.400002"
@@ -458,7 +448,7 @@
              x="-106.29921"
              y="875.22986" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
              xlink:href="level3.png"
              width="35.400002"
              height="35.400002"
@@ -472,7 +462,7 @@
            id="g8202"
            transform="matrix(0.5204856,0,0,0.5204856,-52.232298,463.83081)">
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level1.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level1.png"
              xlink:href="level1.png"
              y="875.22986"
              x="-141.73228"
@@ -482,7 +472,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level2.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level2.png"
              xlink:href="level2.png"
              y="875.22986"
              x="-106.29921"
@@ -492,7 +482,7 @@
              height="35.400002"
              width="35.400002" />
           <image
-             sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/level3.png"
+             sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
              xlink:href="level3.png"
              y="875.22986"
              x="-70.866142"
@@ -538,10 +528,10 @@
        height="68.810051"
        width="267.23526"
        id="rect4923"
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.05609083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#ffce00;fill-opacity:1;fill-rule:evenodd;stroke:#453881;stroke-width:2.05609083;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot4929"
        transform="matrix(0.9628756,0,0,0.9628756,9.0940435,30.194066)"><flowRegion
          id="flowRegion4931"><use
@@ -553,10 +543,10 @@
            height="100%"
            transform="matrix(1.0385558,0,0,1.0385558,-6.6841418,-31.358221)" /></flowRegion><flowPara
          id="flowPara6450"
-         style="font-size:10.38555717px">Carnival intentonally descends into chaos fast and is for groups that have played before or already get along well</flowPara><flowPara
-         style="font-size:10.38555717px"
+         style="font-size:10.38555717px;fill:#453881;fill-opacity:1;">Carnival intentonally descends into chaos fast and is for groups that have played before or already get along well</flowPara><flowPara
+         style="font-size:10.38555717px;fill:#453881;fill-opacity:1;"
          id="flowPara16926">for other reasons.</flowPara><flowPara
-         style="font-size:10.38555717px"
+         style="font-size:10.38555717px;fill:#453881;fill-opacity:1;"
          id="flowPara16928">The purpose is to have fun and spark ideas about how to  change the world.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6333"
@@ -587,7 +577,7 @@
            height="104.86918"
            x="229.54698"
            y="113.02567" /></flowRegion><flowPara
-         id="flowPara14538"></flowPara></flowRoot>    <flowRoot
+         id="flowPara14538" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14540"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -597,9 +587,9 @@
            height="16.89559"
            x="245.85997"
            y="205.66011" /></flowRegion><flowPara
-         id="flowPara14546"></flowPara></flowRoot>    <text
+         id="flowPara14546" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#453881;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="5.8931522"
        y="998.93427"
        id="text16922"
@@ -608,6 +598,6 @@
          id="tspan16924"
          x="5.8931522"
          y="998.93427"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Discussion</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#453881;fill-opacity:1;">Discussion</tspan></text>
   </g>
 </svg>

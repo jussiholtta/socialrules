@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.893699"
-     inkscape:cx="146.60639"
-     inkscape:cy="153.98918"
+     inkscape:zoom="1.7215556"
+     inkscape:cx="141.73228"
+     inkscape:cy="194.88189"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,17 +59,9 @@
      id="layer1"
      transform="translate(0,-662.59839)"
      style="display:inline">
-    <rect
-       style="opacity:1;fill:#32c800;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5909"
-       width="460.62991"
-       height="354.33072"
-       x="612.97614"
-       y="-42.15427"
-       transform="matrix(0,1,1,0,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#37d200;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffce00;fill-opacity:0.09803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="27.216291"
        y="1046.8463"
        id="text4136"
@@ -78,9 +70,9 @@
          id="tspan4138"
          x="27.216291"
          y="1046.8463"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#37d200;fill-opacity:1">_Rules by Jussi Hölttä</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffce00;fill-opacity:0.09803922;">_Rules by Jussi Hölttä</tspan></text>
     <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.11893821;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffce00;fill-opacity:1;fill-rule:evenodd;stroke:#ba4242;stroke-width:2.11893821;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6683"
        width="265.75769"
        height="341.74811"
@@ -89,7 +81,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4223"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ba4242;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        transform="translate(-109.55029,644.11123)"><flowRegion
          id="flowRegion4225"><rect
            id="rect4227"
@@ -97,8 +89,8 @@
            height="397.80518"
            x="26.964985"
            y="31.791382"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#ba4242;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          id="flowPara6673">Facilitator tips</flowPara></flowRoot>    <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -170,42 +162,36 @@
            id="use10961"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara10967">All instructions in this deck - including this one - are guidelines that may or may not have been tested with real players. Feel free to improvise.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17066" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17068">The discussion topic can be anything, as long as everyone agrees to it. It's better to use a generic topic where everyone has something to contribute.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17074" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17076">Stay completely out of the discussion while the round timer is running. Focus on observing how the modifiers change the dynamics so you'll have some observations to share in case the group needs encouragement between rounds.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17054" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17056">People will end up with more than one modifier. Tell them to follow only the new one if they conflict. It may be beneficial to ask after dealing modifiers if anyone is uncomfortable with the ones they have and dealing them a new one. </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara16973" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17046">Adding empty cards to the deck slows down the descent to chaos. It's important to add some with bigger groups. However, having too many empty cards can cause some players feel left out if they happen to get just those cards. This is hard to balance, go with your gut.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:110.00000238%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17052" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara6361"><flowSpan
-   style="line-height:110.00000238%"
+   style="line-height:110.00000238%;fill:#ba4242;fill-opacity:1"
    id="flowSpan17082">The easiest way to play the game is to use a circle of chairs where everybody can see each other. It is also possible to </flowSpan>play in any kind of social setting, but it may require customizing the modifiers.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17070" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
-         id="flowPara17072">For more tips and latest information about the game go to: iki.fi/_</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
+         id="flowPara17072">For more tips and latest information about the game go to: https://jussiholtta.github.io/socialrules/</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#ba4242;fill-opacity:1"
          id="flowPara17044" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot16535"><flowRegion
-         id="flowRegion16537" /><flowPara
-         id="flowPara16541"
-         style="font-size:10px;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Social Rules is designed to help people be more aware of implicit rules in a group, see how changing the rules affect the social dynamics and to have fun while doing so.  The basic idea is: 1) take a social situation 2) discover implicit rules people follow 3) apply modifiers to the rules and observe</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot16545"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -225,7 +211,7 @@
          sodipodi:role="line"
          id="tspan4214"
          x="196.40828"
-         y="746.92114"> </tspan></text>
+         y="746.92114" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot14548"
@@ -236,5 +222,5 @@
            height="124.71552"
            x="377.88058"
            y="138.83913" /></flowRegion><flowPara
-         id="flowPara14554"></flowPara></flowRoot>  </g>
+         id="flowPara14554" /></flowRoot>  </g>
 </svg>

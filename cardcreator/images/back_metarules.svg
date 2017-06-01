@@ -2339,7 +2339,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8489835"
-     inkscape:cx="153.53939"
+     inkscape:cx="72.684153"
      inkscape:cy="154.83646"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2369,7 +2369,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3927,7 +3927,7 @@
        style="fill:#359535;fill-opacity:1;stroke:#359535;stroke-width:1.77165353;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:0px;word-spacing:0px;fill:#359535;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura Medium';letter-spacing:0px;word-spacing:0px;fill:#359535;fill-opacity:0.09803922;stroke:none;"
        x="169.80946"
        y="1044.889"
        id="text6702"
@@ -3936,6 +3936,6 @@
          id="tspan6704"
          x="169.80946"
          y="1044.889"
-         style="font-weight:500;font-size:18px;-inkscape-font-specification:'Futura Medium';fill:#359535;fill-opacity:1;">@jussiholtta</tspan></text>
+         style="font-weight:500;font-size:18px;-inkscape-font-specification:'Futura Medium';fill:#359535;fill-opacity:0.09803922;">@jussiholtta</tspan></text>
   </g>
 </svg>
