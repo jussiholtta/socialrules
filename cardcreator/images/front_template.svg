@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6688309"
-     inkscape:cx="50.285288"
-     inkscape:cy="125.99264"
+     inkscape:zoom="0.83441545"
+     inkscape:cx="49.686066"
+     inkscape:cy="197.89927"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1147"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      showborder="true"
@@ -76,9 +76,16 @@
        id="layer2"
        inkscape:label="Icons"
        style="display:inline">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.48982167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4152"
+         width="295.14798"
+         height="401.44717"
+         x="-5.8417063"
+         y="656.75671" />
       <image
-         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\level3.png"
-         xlink:href="level3.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATELEVEL.png"
+         xlink:href="TEMPLATELEVEL.png"
          width="283.46457"
          height="283.46457"
          preserveAspectRatio="none"
@@ -86,7 +93,7 @@
          x="-1.0813314e-006"
          y="715.74799" />
       <image
-         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE1.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE1.png"
          xlink:href="TEMPLATEGAMEMODE1.png"
          y="988.58264"
          x="-7.0866141"
@@ -96,7 +103,7 @@
          height="70.866142"
          width="70.866142" />
       <image
-         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE2.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE2.png"
          xlink:href="TEMPLATEGAMEMODE2.png"
          y="988.58264"
          x="219.68504"
@@ -106,7 +113,7 @@
          height="70.866142"
          width="70.866142" />
       <image
-         sodipodi:absref="C:\Users\_\Documents\GitHub\socialrules\cardcreator\images\TEMPLATEGAMEMODE3.png"
+         sodipodi:absref="/Users/jussiholtta/github/socialrules/cardcreator/images/TEMPLATEGAMEMODE3.png"
          xlink:href="TEMPLATEGAMEMODE3.png"
          y="655.51178"
          x="219.68504"
